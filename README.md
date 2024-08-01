@@ -8,4 +8,4 @@ database management, with a focus on efficient, scalable, and secure software so
 skills and experience in mobile application development to contribute to innovative projects in a dynamic and collaborative
 environment.
 
-Reach out to me at [LinkedIn](https://www.linkedin.com/in/nouman-sakhawat-7b2189137/) or [Email](rnouman28@gmail.com) 😃
+Reach out to me at [LinkedIn](https://www.linkedin.com/in/nouman-sakhawat-7b2189137/) or [Email](mailto:rnouman28@gmail.com) 😃
