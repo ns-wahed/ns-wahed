@@ -1,4 +1,4 @@
-![](assets/main.svg)
+
 
 Seasoned Software Engineer with over 5 years of expertise in JavaScript, React Native, ReactJS, Redux, NodeJS, and TypeScript.
 Proficient in building robust mobile applications using React Native, with a strong background in web technologies such as
