@@ -1,6 +1,6 @@
 ![](assets/main.svg)
 
-Seasoned Software Engineer with over 5 years of expertise in JavaScript, React Native, ReactJS, Redux, NodeJS, and TypeScript.
+Seasoned Software Engineer with over 6 years of expertise in JavaScript, React Native, ReactJS, Redux, NodeJS, and TypeScript.
 Proficient in building robust mobile applications using React Native, with a strong background in web technologies such as
 HTML5, CSS3, MongoDB, Firebase, and MySQL. Skilled in using Maestro for mobile UI testing and Jest for testing, committed to
 delivering high-quality, scalable solutions. Demonstrated expertise in mobile app development, responsive design, and
